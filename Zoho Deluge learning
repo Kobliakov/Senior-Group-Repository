@@ -1,0 +1,5 @@
+// Type Here
+days = {"monday":2,"tuesday":3};
+monday = days.get("tuesday");
+info monday ;
+info days ;
